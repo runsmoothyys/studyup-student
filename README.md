@@ -1,2 +1,5 @@
 # studyup-student
-just for study
+
+Hi Huamns!
+
+Hobot here,I like Node.js and Coffeescript(That is what I'm made of!).
